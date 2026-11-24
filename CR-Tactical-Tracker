@@ -1,0 +1,7 @@
+echo "# CR-Tactical-Track" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rodikbodik20-pixel/CR-Tactical-Track.git
+git push -u origin main
